@@ -9,33 +9,35 @@ skin: "blue"
 basic_info:
 
     # Your full name
-    first_name: Wonder
-    last_name: Woman
+    first_name: Shaleena
+    last_name: Evans
 
     # Define yourself in 4-5 words
-    motto: I like saving the world
+    motto: I love to laugh, I give out great positive energy. Learning new things
+    always excite me! I've always been determined and motivated to achieve each of
+    my goals and aspirations. Lastly I have a beautiful son that I love dearly, I
+    had in 2019.
 
     # focus
-    focus: Killing Bad Boys
+    focus: My son, goals, being financially stable and stress-free.
 
     # You have 1 paragraph to make a great impression, summarize your career.
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      I plan to stop bartending and have a real career I enjoy. I love coding and would like
+      to further my education even after I finish with 4Geeks Academy bootcamp. In the future
+      I see me having employees that will help me with the contracts I will earn. I also love
+      being serial entrepreneur.
 
-      Second paragraph if required.
+      I love the tech world and another goal would be teaching my son when he is of age!
 
     # Your profile picture URL
     # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
-    avatar: https://randomuser.me/api/portraits/women/24.jpg
+    avatar: https://apis.mail.yahoo.com/ws/v3/mailboxes/@.id==VjN-FVX-vwwwBgfvhwXDieGJrkCGVVhLRnDlImCv8KT7nDDOfTdSeBu4pjytrZE4bikHUWhjIv2uHVC2R0Wv8Q9VgQ/messages/@.id==AOClfF4zMzVfZEcjUgQPEGhY_Yg/content/parts/@.id==2/thumbnail?appid=YMailNorrinLaunch
 
     # Contact Information
-    email: a@a.com #optional
-    phone: 234 2342 342 #optional
-    website: asd.com #optional
+    email: eshaleena@yahoo.com #optional
+    phone: 415-573-9025 #optional
+    website:  #optional
     linkedin: alandoe #optional
 
     #
