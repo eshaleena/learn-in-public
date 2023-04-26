@@ -13,10 +13,7 @@ basic_info:
     last_name: Evans
 
     # Define yourself in 4-5 words
-    motto: I love to laugh, I give out great positive energy. Learning new things
-    always excite me! I've always been determined and motivated to achieve each of
-    my goals and aspirations. Lastly I have a beautiful son that I love dearly, I
-    had in 2019.
+    motto: Motivated, Determined, Driven, Entrepreneur, Mother and Positive
 
     # focus
     focus: My son, goals, being financially stable and stress-free.
@@ -25,10 +22,10 @@ basic_info:
     summary: |
       I plan to stop bartending and have a real career I enjoy. I love coding and would like
       to further my education even after I finish with 4Geeks Academy bootcamp. In the future
-      I see me having employees that will help me with the contracts I will earn. I also love
-      being serial entrepreneur.
+      I see me having employees that will help me with the contracts I will earn. I love the
+      tech world and another goal would be teaching my son when he is of age!
 
-      I love the tech world and another goal would be teaching my son when he is of age!
+      
 
     # Your profile picture URL
     # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
@@ -38,14 +35,14 @@ basic_info:
     email: eshaleena@yahoo.com #optional
     phone: 415-573-9025 #optional
     website:  #optional
-    linkedin: alandoe #optional
+    linkedin: https://www.linkedin.com/in/shaleena-evans-b38b91273?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BhfbWksayQ9mXrn2mdbpf9g%3D%3D #optional
 
     #
     # ******** IMPORTANT *******
     # This github username will be use to generate your public profile URL like this: http://sep.breatheco.de/sharu725
-    github: example
+    github: https://github.com/eshaleena
 
-    twitter: 'webjeda' #optional
+    twitter:  #optional
     stack-overflow: # Number/Username, e.g. 123456/alandoe
 
     # languages you speak, levels inculde: Native, Professional
@@ -53,72 +50,66 @@ basic_info:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: 
+        level: 
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: 
+        level: 
 
     # Interests or hobies
     interests:
-      - item: Climbing
+      - item: Learning
 
-      - item: Snowboarding
+      - item: Being a great mom
 
-      - item: Cooking
+      - item: Working
 
 # Your previous education
 education:
-    - degree: MSc in Computer Science
-      university: University of London
+    - degree: Fashhion Design
+      university: Art Institute of Atlanta
       # optional
-      university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      university_logo: https://iuploads.scribblecdn.net/5633b9a2-2609-4636-bdae-fc3e377827b9/global/imagelib/aig_logo/ai_horizontal_logo_-_new-c782c61affd3274d17362604fdfc2e8dcffa8bc6.png?v=06192019190154
       time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+      details: |Fashion design is the art of applying design, aesthetics, clothing construction
+                and natural beauty to clothing and its accessories. It is influenced by culture
+                and different trends, and has varied over time and place.
+         
 
-          - Bullet point
-          - Bullet point
+          - You can have a great career and travel the world enjoying what you do.
+          - Great opportunities in bringing your visions of fashion to life.
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
+    - high school: John L. Leflore high school
+      university: 
       # optional
-      university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+      university_logo: 
+      time: 2009 - 2012
+      details: |High school diploma
+        
 
-          - Bullet point
-          - Bullet point
+          - 
+          -
 
 # Your previous job experiences or voluntier
-experiences:
-    - role: Lead Developer
+       Job: Jaguar Containers
+    - role: Digital Marketing Associate
       time: 2015 - Present
-      company: Startup Hubs, San Francisco
+      company: Atlanta, Georgia
       # optional
       company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+       The job of a digital marketing associate is to oversee the digital
+       marketing campaigns and programs of an organization. You will be
+       responsible for developing and implementing the digital marketing
+       strategy to promote the company's websites, social media platforms,
+       and other web-based resources.
 
-          - Bullet point
-          - Bullet point
+          - Manage the flow of conversions to CRM in order to ensure that
+            the sales teams are producing leads.
+          - Establish and manage several social media business pages and
+            Facebook campaigns.
+          - Work to create and launch new product landing pages for the website using HTML.
+          - Used the open source blogging tool and content management system (CMS), WordPress, for content marketing.
 
     - role: Senior Software Engineer
       time: 2014 - 2015
@@ -158,35 +149,36 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
+      - title: exercise-postcard
         # optional
-        project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-        link: "#hook"
+        project_logo: https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png
+        link: https://github.com/eshaleena/exercise-postcard
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
+      - title: html-hello
         # optional
-        project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-        link: "#"
+        project_logo: https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png
+        link: https://github.com/eshaleena/html-hello
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
+      - title: IG-photo-feed
         # optional
-        project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        project_logo: https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png
+        link: https://github.com/eshaleena/Shaleena-IG-Photo-Feed
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-      - title: Atom
+      - title: Simple-Instagram-photo-feed-with-html-css
         # optional
-        project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-        link: "#"
+        project_logo: https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png
+        link: https://github.com/eshaleena/Simple-Instagram-Photo-Feed-with-HTML-CSS
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
+      - title: Ig-post-html-css
         # optional
-        project_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        project_logo: https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png
+        link: 
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        
 
 skills:
     toolset:
